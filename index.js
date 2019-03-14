@@ -1,1 +1,1 @@
-// add solution here
+function('beatlesPlay', function (an array of musicians , array of instruments)
